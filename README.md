@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Stats
+## 📈 Stats
 
 <div align="center">
     <br />
