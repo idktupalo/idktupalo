@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 🎓 I am Tupalo Kostyantin, **Junior Front End Web Developer** (specializing in **React Applications** and **Vue Applications**)
 
-## <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="29px"> Skills 
-<img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="39px">
+## <img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="39px"> Skills 
+
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
