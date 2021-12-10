@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔗 Link
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://www.telegram.org/vrrsthg/)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white]
