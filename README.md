@@ -47,3 +47,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idktupalo&theme=blue-white" alt="idktupalo GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=idktupalo&theme=blue-white" alt="Stats">
 </div>
+
+## 🔗 Link
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://www.telegram.org/vrrsthg/)
