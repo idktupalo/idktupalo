@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Golang](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Golang](https://img.shields.io/badge/Golang?style=for-the-badge&logo=golang&logoColor=F7DF1E)
