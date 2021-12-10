@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🎓 I am Tupalo Kostyantin, **Junior Front End Web Developer** (specializing in **React Applications** and **Vue Applications**)
 
 ## <img src="https://giphy.com/stickers/Emoji-emoji-zoom-animated-Ieo88333eatH73xKQG" width="29px"> Skills 
-<img src="https://giphy.com/stickers/Emoji-emoji-zoom-animated-Ieo88333eatH73xKQG.gif" width="29px">
+<img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="29px">
