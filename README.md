@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😄 About Me
+
+🎓 I am Tupalo Kostyantin, **Junior Front End Web Developer** (specializing in **React Applications** and **Vue Applications**)
