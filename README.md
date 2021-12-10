@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={idktupalo}&theme=blue-green)
