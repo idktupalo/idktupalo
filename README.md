@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 😄 About Me
+## <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="39px"> About Me 
 
 🎓 I am Tupalo Kostyantin, **Junior Front End Web Developer** (specializing in **React Applications** and **Vue Applications**)
 
-## <img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="39px"> Skills 
+## <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="39px"> Skills 
 
 ## Languages
 
