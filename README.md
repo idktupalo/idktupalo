@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="39px"> About Me 
 
-🎓 I am Tupalo Kostyantin, **Junior Web Developer** 
+🎓 I am Tupalo Kostyantin, **Junior Developer** 
 
 ## <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="39px"> Skills 
 
