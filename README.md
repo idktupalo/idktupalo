@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="39px"> Skills 
 
+![CMAKE](https://camo.githubusercontent.com/87f17cd955b19e3606611546fc6124d40c168d61b08de59d023b844ac8f35fae/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d434d616b6526636f6c6f723d303634463843266c6f676f3d434d616b65266c6f676f436f6c6f723d464646464646266c6162656c3d)
+
 ## Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
